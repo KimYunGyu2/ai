@@ -1,5 +1,6 @@
-money = True
-if money:
-    print("택시 타고 가라")
-else:
-    print("걸어 가라")
+f = open("새파일.txt", 'r', encoding="UTF-8")
+while True:
+    line = f.readline()
+    if not line: break
+    print(line)
+f.close()
