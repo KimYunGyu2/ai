@@ -1,0 +1,8 @@
+# 자바 8버전 설치 (구구버전)
+
+https://github.com/ojdkbuild/ojdkbuild/releases/download/1.8.0.181-1/java-1.8.0-openjdk-1.8.0.181-1.b13.ojdkbuild.windows.x86_64.msi
+
+
+
+# 전자정부 프레임웍 설치(이클립스 정부버전)
+https://www.egovframe.go.kr/home/sub.do?menuNo=41
